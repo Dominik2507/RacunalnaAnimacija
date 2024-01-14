@@ -1,0 +1,5 @@
+﻿  lab1.vcxproj -> D:\Faks\RacAnim\labosi\lab1\Debug\lab1.exe
+  'copy"D:\Faks\RacAnim\labosi\lab1\Dependencies\freeglut\bin\Win32\freeglut.dll""D:\Faks\RacAnim\labosi\lab1\Debug\"' is not recognized as an internal or external command,
+  operable program or batch file.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(161,5): error MSB3073: The command "copy"D:\Faks\RacAnim\labosi\lab1\Dependencies\freeglut\bin\Win32\freeglut.dll""D:\Faks\RacAnim\labosi\lab1\Debug\"
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(161,5): error MSB3073: :VCEnd" exited with code 9009.

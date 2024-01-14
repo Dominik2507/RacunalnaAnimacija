@@ -1,0 +1,25 @@
+﻿  main.cpp
+D:\Faks\RacAnim\labosi\lab2_1\lab1\main.cpp(47,19): warning C4244: 'initializing': conversion from 'GLdouble' to 'float', possible loss of data
+D:\Faks\RacAnim\labosi\lab2_1\lab1\main.cpp(47,30): warning C4244: 'initializing': conversion from 'GLdouble' to 'float', possible loss of data
+D:\Faks\RacAnim\labosi\lab2_1\lab1\main.cpp(47,41): warning C4244: 'initializing': conversion from 'GLdouble' to 'float', possible loss of data
+D:\Faks\RacAnim\labosi\lab2_1\lab1\main.cpp(67,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Faks\RacAnim\labosi\lab2_1\lab1\main.cpp(188,61): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Faks\RacAnim\labosi\lab2_1\lab1\main.cpp(189,61): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Faks\RacAnim\labosi\lab2_1\lab1\main.cpp(190,61): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Faks\RacAnim\labosi\lab2_1\lab1\main.cpp(193,42): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Faks\RacAnim\labosi\lab2_1\lab1\main.cpp(234,62): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Faks\RacAnim\labosi\lab2_1\lab1\main.cpp(235,62): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Faks\RacAnim\labosi\lab2_1\lab1\main.cpp(236,62): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Faks\RacAnim\labosi\lab2_1\lab1\main.cpp(237,43): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Faks\RacAnim\labosi\lab2_1\lab1\main.cpp(250,85): warning C4244: 'argument': conversion from 'GLdouble' to 'float', possible loss of data
+D:\Faks\RacAnim\labosi\lab2_1\lab1\main.cpp(250,62): warning C4244: 'argument': conversion from 'GLdouble' to 'float', possible loss of data
+D:\Faks\RacAnim\labosi\lab2_1\lab1\main.cpp(250,39): warning C4244: 'argument': conversion from 'GLdouble' to 'float', possible loss of data
+D:\Faks\RacAnim\labosi\lab2_1\lab1\main.cpp(333,74): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Faks\RacAnim\labosi\lab2_1\lab1\main.cpp(334,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Faks\RacAnim\labosi\lab2_1\lab1\main.cpp(335,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Faks\RacAnim\labosi\lab2_1\lab1\main.cpp(426,18): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  lab1.vcxproj -> D:\Faks\RacAnim\labosi\lab2_1\x64\Debug\lab1.exe
+          1 file(s) copied.
+          1 file(s) copied.
+          1 file(s) copied.
+          1 file(s) copied.

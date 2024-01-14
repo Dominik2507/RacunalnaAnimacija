@@ -1,0 +1,21 @@
+﻿  main.cpp
+D:\Faks\RacAnim\labosi\lab2_1\lab1\main.cpp(44,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Faks\RacAnim\labosi\lab2_1\lab1\main.cpp(148,55): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Faks\RacAnim\labosi\lab2_1\lab1\main.cpp(149,55): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Faks\RacAnim\labosi\lab2_1\lab1\main.cpp(150,55): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Faks\RacAnim\labosi\lab2_1\lab1\main.cpp(152,52): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Faks\RacAnim\labosi\lab2_1\lab1\main.cpp(171,56): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Faks\RacAnim\labosi\lab2_1\lab1\main.cpp(172,56): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Faks\RacAnim\labosi\lab2_1\lab1\main.cpp(173,56): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Faks\RacAnim\labosi\lab2_1\lab1\main.cpp(229,10): warning C4473: 'printf' : not enough arguments passed for format string
+D:\Faks\RacAnim\labosi\lab2_1\lab1\main.cpp(229,10): message : placeholders and their parameters expect 1 variadic arguments, but 0 were provided
+D:\Faks\RacAnim\labosi\lab2_1\lab1\main.cpp(229,10): message : the missing variadic argument 1 is required by format string '%s'
+soil.lib(image_DXT.obj) : warning LNK4099: PDB 'SOIL.pdb' was not found with 'soil.lib(image_DXT.obj)' or at 'D:\Faks\RacAnim\labosi\lab2_1\Debug\SOIL.pdb'; linking object as if no debug info
+soil.lib(image_helper.obj) : warning LNK4099: PDB 'SOIL.pdb' was not found with 'soil.lib(image_helper.obj)' or at 'D:\Faks\RacAnim\labosi\lab2_1\Debug\SOIL.pdb'; linking object as if no debug info
+soil.lib(SOIL.obj) : warning LNK4099: PDB 'SOIL.pdb' was not found with 'soil.lib(SOIL.obj)' or at 'D:\Faks\RacAnim\labosi\lab2_1\Debug\SOIL.pdb'; linking object as if no debug info
+soil.lib(stb_image_aug.obj) : warning LNK4099: PDB 'SOIL.pdb' was not found with 'soil.lib(stb_image_aug.obj)' or at 'D:\Faks\RacAnim\labosi\lab2_1\Debug\SOIL.pdb'; linking object as if no debug info
+  lab1.vcxproj -> D:\Faks\RacAnim\labosi\lab2_1\Debug\lab1.exe
+          1 file(s) copied.
+          1 file(s) copied.
+          1 file(s) copied.
+          1 file(s) copied.

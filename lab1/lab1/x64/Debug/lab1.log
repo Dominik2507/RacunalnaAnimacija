@@ -1,0 +1,15 @@
+﻿  main.cpp
+D:\Faks\RacAnim\labosi\lab1\lab1\main.cpp(214,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Faks\RacAnim\labosi\lab1\lab1\main.cpp(324,31): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Faks\RacAnim\labosi\lab1\lab1\main.cpp(381,42): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Faks\RacAnim\labosi\lab1\lab1\main.cpp(463,17): warning C4566: character represented by universal-character-name '\u010D' cannot be represented in the current code page (1252)
+D:\Faks\RacAnim\labosi\lab1\lab1\main.cpp(493,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Faks\RacAnim\labosi\lab1\lab1\main.cpp(495,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Faks\RacAnim\labosi\lab1\lab1\main.cpp(554,12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Faks\RacAnim\labosi\lab1\lab1\main.cpp(555,12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Faks\RacAnim\labosi\lab1\lab1\main.cpp(556,12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  lab1.vcxproj -> D:\Faks\RacAnim\labosi\lab1\x64\Debug\lab1.exe
+          1 file(s) copied.
+          1 file(s) copied.
+          1 file(s) copied.
+          1 file(s) copied.
